@@ -1,11 +1,11 @@
 # ChatGPT 中文版：国内免费直连指南（支持 GPT-4o、GPT-4、GPT-3.5，无需翻墙）【2025年6月最新】
 
-> **更新日期：2025/06/07** 
+> **更新日期：2025/06/21** 
 
-本文提供全面的 **[ChatGPT 中文版](https://chat.lanjing.pro) 使用指南**，精选国内优质镜像网站，支持 **GPT-4o、GPT-4、GPT-3.5、deepseek-r1、GPT-o3** 等多款模型，无需翻墙即可访问。无论您是想提升工作效率还是满足个人需求，本文将帮助您快速上手 **[ChatGPT 中文版](https://chat.yixiaai.com)**，并提供官网注册教程和常见问题解答。
+本文提供全面的 **[ChatGPT 中文版](https://talk.lanjing.pro) 使用指南**，精选国内优质镜像网站，支持 **GPT-4o、GPT-4、GPT-3.5、deepseek-r1、GPT-o3** 等多款模型，无需翻墙即可访问。无论您是想提升工作效率还是满足个人需求，本文将帮助您快速上手 **[ChatGPT 中文版](https://chat.yixiaai.com)**，并提供官网注册教程和常见问题解答。
 
 **ChatGPT 中文版推荐站点：**  
-- [chat.lanjing.pro](https://chat.lanjing.pro)  
+- [talk.lanjing.pro](https://talk.lanjing.pro)  
 - [chat.yixiaai.com](https://xsimplechat.com)
 
 ---
@@ -26,7 +26,7 @@
 
 ## 什么是 ChatGPT 中文版？
 
-**[ChatGPT 中文版](https://chat.lanjing.pro)** 是基于 OpenAI ChatGPT 模型的中文优化版本，专为中文用户设计，提供更流畅、更精准的对话体验。相比官方版本，中文版在以下方面更贴合国内用户需求：
+**[ChatGPT 中文版](https://talk.lanjing.pro)** 是基于 OpenAI ChatGPT 模型的中文优化版本，专为中文用户设计，提供更流畅、更精准的对话体验。相比官方版本，中文版在以下方面更贴合国内用户需求：
 
 - **中文优化**：深度适配中文语境，适合学习、办公、创作等场景。  
 - **本地化访问**：通过国内镜像网站实现，无需翻墙，访问速度快且稳定。  
@@ -41,9 +41,9 @@
 
 | **镜像站地址**       | **支持版本**                  | **免费额度** | **注册方式**       | **稳定性** | **功能亮点**                              |
 |----------------------|------------------------------|--------------|-------------------|------------|------------------------------------------|
-| [chat.lanjing.pro](https://chat.lanjing.pro)   | GPT-4o, GPT-4, GPT-3.5, deepseek-r1, GPT-o3 | 有           | 国内邮箱支持      | ⭐⭐⭐⭐⭐    | 运营两年，支持 GPT-4o，内置 MJ 绘图，适合开发者和普通用户 |
+| [talk.lanjing.pro](https://talk.lanjing.pro)   | GPT-4o, GPT-4, GPT-3.5, deepseek-r1, GPT-o3 | 有           | 国内邮箱支持      | ⭐⭐⭐⭐⭐    | 运营两年，支持 GPT-4o，内置 MJ 绘图，适合开发者和普通用户 |
 | [chat.yixiaai.com](https://chat.yixiaai.com)     | GPT-4o, GPT-4, GPT-3.5, Claude, deepseek-r1, GPT-o3 | 有           | 手机扫码使用      | ⭐⭐⭐⭐⭐    | 支持 GPT-o1，一比一还原官网，支持实时语音和视频对话 |
-| [chat.lify.vip](https://www.yixiaai.com) | GPT-4, GPT-3.5      | 有           | 手机扫码使用      | ⭐⭐⭐⭐     | 支持开发者 API，服务稳定                |
+| [chat.lify.vip](https://chat.yixiaai.com) | GPT-4, GPT-3.5      | 有           | 手机扫码使用      | ⭐⭐⭐⭐     | 支持开发者 API，服务稳定                |
 | [yixiaai.cn](https://yixiaai.cn)   | GPT-3.5             | 有           | 国内直接使用      | ⭐⭐⭐      | 各种AI工具，想要的这儿全都有              |
 
 ---
@@ -86,7 +86,7 @@
 ## 如何快速开始使用 ChatGPT 中文版
 
 ### **方法一：通过镜像网站体验**
-1. **选择站点**：访问推荐镜像站（如 [chat.lanjing.ai](https://chat.lanjing.ai)）。  
+1. **选择站点**：访问推荐镜像站（如 [talk.lanjing.pro](https://talk.lanjing.pro)）。  
 2. **注册或免登**：  
    - 注册：输入国内邮箱和密码即可完成。  
    - 免注册：部分站点支持直接对话。  
